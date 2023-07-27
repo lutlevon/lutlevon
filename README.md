@@ -1,6 +1,6 @@
 # Hi there :wave:	:
 I'm Luis Guzman, i'm a 25 years old full-stack developer
-* I'm currently looking for a new job opportunity
+* I'm currently learnig go
 * I'm currently improving my Ts and Js skills
 
 
